@@ -1,0 +1,199 @@
+{
+  "date": "2026-09-05",
+  "picks": [
+    {
+      "slot": "domestic",
+      "category": "정치",
+      "headline": "김승원 법무장관 후보, 신약 청탁 의혹 확산",
+      "kakao_line": "김승원 법무장관 후보 청탁 의혹, 여야 공방",
+      "what": "무소속 한동훈 의원이 5일 김승원 법무부 장관 후보자가 신약 임상시험 승인 청탁 사건 브로커 양모씨와 나눈 녹취록을 공개했다. 조선일보는 문제의 제약사 제넨셀의 임상시험계획이 평균의 절반 수준인 33일 만에 식약처 승인을 받았다고 단독 보도했다. 김 후보자는 '동물실험 조작·누락은 몰랐다'며 청탁을 부인했고, 민주당은 '정치 공세'라며 방어에 나섰다.",
+      "why": "이재명 정부 2기 개각의 최대 쟁점이 됐다. 인사청문회 통과 여부에 따라 정국이 갈린다.",
+      "term": "",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260905021252001"
+        },
+        {
+          "name": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/09/05/LSIY5MHFB5CYRLWICIZAYACGDM/"
+        }
+      ]
+    },
+    {
+      "slot": "domestic",
+      "category": "경제",
+      "headline": "9월 초 수출 7094억달러, 지난해 연간치 넘어",
+      "kakao_line": "9월 초 수출누계 7094억달러, 사상 최대",
+      "what": "관세청은 올해 9월 초까지 수출 누계가 7094억달러(약 951조원)로 지난해 연간 최대 실적 7093억달러를 이미 넘어 역대 최대를 기록했다고 5일 밝혔다. 이재명 대통령은 성과 보고를 X(옛 트위터)에 공유했다.",
+      "why": "트럼프 관세 압박 국면에도 수출 증가세가 유지돼 연간 1조달러 돌파 여지가 생긴다. 하반기 성장률 전망 상향의 근거가 된다.",
+      "term": "",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260905034151002"
+        },
+        {
+          "name": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/09/05/GFRDOMJVGNTDQNBZGE3WCZJWMI/"
+        }
+      ]
+    },
+    {
+      "slot": "domestic",
+      "category": "정치",
+      "headline": "美, 한국에 호르무즈 파병 요청 압박",
+      "kakao_line": "美 '한국 파병 대기', 이란 '전쟁 참여 간주'",
+      "what": "4일(현지시간) 미국 행정부 고위 당국자는 뉴스1에 '한국은 중동 석유의 가장 큰 수입국'이라며 호르무즈 파병을 포함한 한국의 결정을 기다리고 있다고 밝혔다. 이란 정치·안보 고위 당국자는 같은 날 알마야딘 인터뷰에서 '한국이 호르무즈에서 하는 어떤 행위도 이란에 대한 군사 공격 참가로 간주할 것'이라고 경고했다. 대통령실은 '결정된 것 없다'고 답했다.",
+      "why": "미국-이란 전쟁 확전 국면에서 한국의 원유 수급과 한미 동맹이 동시에 걸린 결정이다. 파병 시 이란과의 직접 충돌 위험이 커진다.",
+      "term": "호르무즈 해협은 페르시아만 입구에 있는 해상 통로로, 세계 원유의 약 20%가 이곳을 지난다.",
+      "sources": [
+        {
+          "name": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/05/2026090520263812546"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/05/2026090520274458514"
+        },
+        {
+          "name": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/09/05/SGGXYEVFB5GMRMC26RQAUSSNOI/"
+        }
+      ]
+    },
+    {
+      "slot": "domestic",
+      "category": "경제",
+      "headline": "한국거래소, 14일부터 오후 8시까지 거래",
+      "kakao_line": "거래소, 14일부터 애프터마켓 오후 8시까지",
+      "what": "한국거래소(KRX)가 이번달 14일부터 애프터마켓을 열어 정규장 이후 오후 8시까지 실시간 주식거래를 확대한다. 대체거래소 넥스트레이드(NXT)에 이어 KRX도 거래시간 연장에 합류한다.",
+      "why": "퇴근 후 개인 투자자의 접근이 넓어져 거래대금이 늘고, 야간 변동성 확대와 정보 비대칭 우려도 커진다.",
+      "term": "애프터마켓은 정규 거래시간(오후 3시 30분) 이후 열리는 시간외 주식거래 시장이다.",
+      "sources": [
+        {
+          "name": "매일경제",
+          "url": "https://www.mk.co.kr/news/stock/12145085"
+        }
+      ]
+    },
+    {
+      "slot": "domestic",
+      "category": "사회",
+      "headline": "네팔 홍수 한국 구조대, 중국인 1명 구조",
+      "kakao_line": "네팔 홍수 KDRT, 中 1명 구조·시신 1구 수습",
+      "what": "대한민국 해외긴급구호대(KDRT)가 5일 네팔 대홍수 실종자 수색 중 위어댐 인근 터널에서 중국인 생존자 1명을 구조하고 국적 불명 시신 1구를 수습했다고 외교부가 밝혔다. 조현 외교부 장관은 네팔을 방문해 외교장관 회담과 실종자 가족 면담을 진행한다. 지난달 26일 대홍수로 네팔에서 1200명 이상이 숨지고 5000명 이상이 실종됐다.",
+      "why": "한국인 실종자 수색이 이어지는 가운데 KDRT가 2007년 파견 이후 9번째 생존자 구조 실적을 냈다.",
+      "term": "",
+      "sources": [
+        {
+          "name": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/09/05/2026090518094482509"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260905019451504"
+        }
+      ]
+    },
+    {
+      "slot": "domestic",
+      "category": "산업",
+      "headline": "현대제철, 美 전기로 제철소 착공 연 270만t",
+      "kakao_line": "현대제철, 美 루이지애나 전기로 제철소 착공",
+      "what": "현대제철이 미국 루이지애나주 도널드슨빌에서 전기로 기반 자동차강판 전문 제철소 건설에 착수했다. 저탄소 강판 연 270만t을 생산할 계획이다. 정의선 회장은 이 강판을 미국 조지아 공장 아틀라스 등에 적용하겠다고 밝혔다.",
+      "why": "미국 관세 부담을 낮추고 저탄소 규제에 대응하는 현지 공급망 구축이다. 국내 고로 대비 이산화탄소 배출을 줄인다.",
+      "term": "전기로 제철은 고철을 전기로 녹여 강판을 만드는 방식으로, 고로 방식보다 탄소 배출이 적다.",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260904133751003"
+        }
+      ]
+    },
+    {
+      "slot": "world",
+      "category": "경제",
+      "headline": "美 8월 취업 16.2만명, 트럼프 관세로 금리 압박",
+      "kakao_line": "美 8월 취업 16.2만 증가, 관세로 금리 압박",
+      "what": "미국의 8월 취업자 수가 16만2000명 증가하고 실업률은 4.1%를 유지해 견조한 고용을 보였다. 트럼프 대통령은 연준(Fed)이 금리를 내리지 않으면 무역적자국과의 교역을 중단할 수 있다고 위협했다.",
+      "why": "견조한 고용은 9월 금리 인하 기대를 낮추지만, 관세 위협이 새 변수다. 한국은행의 10월 인하 판단과 원달러 환율 방향에도 영향을 준다.",
+      "term": "",
+      "sources": [
+        {
+          "name": "뉴욕타임스",
+          "url": "https://www.nytimes.com/2026/09/04/business/economy/jobs-unemployment.html"
+        },
+        {
+          "name": "뉴욕타임스",
+          "url": "https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "slot": "world",
+      "category": "경제",
+      "headline": "美 디젤값 사상 최고, 이란 전쟁 여파",
+      "kakao_line": "美 디젤값 사상 최고치, 英 휘발유도 급등",
+      "what": "미국의 디젤 가격이 2022년 러시아의 우크라이나 전면 침공 직후 기록을 넘어 사상 최고치를 기록했다고 뉴욕타임스가 4일 보도했다. 영국 무연 휘발유 가격은 리터당 163펜스로 이란 전쟁 시작 이후 최고 수준이다. 이란 반관영 매체는 5일 원유 수출 거점 하르그섬 인근에서 폭발음이 여러 차례 들렸다고 전했다.",
+      "why": "원유·경유 수입 의존도가 큰 한국에도 물가와 무역수지 부담이 커진다. 중동 정세 악화가 이어지면 물가 상승 압력이 지속된다.",
+      "term": "",
+      "sources": [
+        {
+          "name": "뉴욕타임스",
+          "url": "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/05/2026090517425585365"
+        }
+      ]
+    },
+    {
+      "slot": "world",
+      "category": "국제",
+      "headline": "러 드론, 우크라 정보국 본부 타격",
+      "kakao_line": "러 드론, 우크라 SBU 본부 타격, '중대 격상'",
+      "what": "러시아 드론이 우크라이나 보안국(SBU) 본부를 타격했다고 젤렌스키 대통령이 4일 밝혔다. 우크라이나 외무장관은 '중대한 격상'이라고 규정했다. 트럼프 대통령의 특사 위트코프와 사위 쿠슈너는 5일 협상을 위해 모스크바에 도착했다.",
+      "why": "미국이 중재하는 평화협상 재개 시점에 러시아의 강경 대응이 확산돼 협상 판이 흔들린다.",
+      "term": "SBU는 우크라이나 보안국으로 정보 수집과 방첩을 담당한다.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "slot": "world",
+      "category": "국제",
+      "headline": "독일 극우 AfD, 작센안할트 첫 주정부 도전",
+      "kakao_line": "독일 극우 AfD, 작센안할트 주정부 첫 도전",
+      "what": "독일 극우 정당 '독일을 위한 대안(AfD)'이 7일 작센안할트 주의회 선거에서 사상 최대 득표를 노린다. 성사되면 제2차 세계대전 후 첫 극우 주정부가 될 수 있다.",
+      "why": "유럽 주요국의 극우 부상 흐름을 상징하는 시험대다. 독일 연방정치와 EU 정책 방향에 영향을 준다.",
+      "term": "",
+      "sources": [
+        {
+          "name": "뉴욕타임스",
+          "url": "https://www.nytimes.com/2026/09/05/world/europe/germany-afd-saxony-anhalt.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ]
+}

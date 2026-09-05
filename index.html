@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>9/4(금) 뉴스</title>
+<title>매일 뉴스 다이제스트</title>
 <style>
 :root { color-scheme: light dark;
   --bg:#fbfbfa; --fg:#1a1a1a; --muted:#6b6b6b; --line:#e4e4e1; --card:#fff; --link:#1a56c4; }
@@ -11,63 +11,45 @@
   :root { --bg:#141414; --fg:#ededed; --muted:#9a9a9a; --line:#2c2c2c; --card:#1c1c1c; --link:#7fa8ff; } }
 * { box-sizing:border-box; }
 body { margin:0; padding:20px 16px 48px; background:var(--bg); color:var(--fg);
-  font:16px/1.65 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
-  max-width:680px; margin-inline:auto; word-break:keep-all; }
+  font:16px/1.6 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  max-width:720px; margin-inline:auto; word-break:keep-all; }
 h1 { font-size:22px; margin:0 0 4px; letter-spacing:-.02em; }
 .meta { color:var(--muted); font-size:14px; margin:0 0 24px; }
-article { background:var(--card); border:1px solid var(--line); border-radius:12px;
-  padding:16px 18px; margin-bottom:14px; }
-h2 { font-size:17px; margin:0 0 6px; letter-spacing:-.01em; }
-.tag { display:inline-block; font-size:12px; color:var(--muted);
-  border:1px solid var(--line); border-radius:999px; padding:1px 9px; margin:0 0 10px; }
-p { margin:0 0 10px; }
-.why { border-left:3px solid var(--line); padding-left:11px; }
-.term { font-size:14px; color:var(--muted); }
-.src { font-size:14px; margin:0; }
-a { color:var(--link); }
-b { font-weight:650; }
+details { background:var(--card); border:1px solid var(--line); border-radius:12px;
+  margin-bottom:12px; overflow:hidden; }
+summary { cursor:pointer; padding:13px 16px; font-weight:650; font-size:16px;
+  list-style:none; display:flex; align-items:center; gap:8px; }
+summary::-webkit-details-marker { display:none; }
+summary::before { content:"▸"; color:var(--muted); font-size:12px; }
+details[open] summary::before { content:"▾"; }
+summary .count { margin-left:auto; font-weight:400; font-size:13px; color:var(--muted); }
+summary a.day { color:var(--link); font-weight:400; font-size:13px; text-decoration:none; }
+ul { list-style:none; margin:0; padding:0 16px 14px; }
+li { display:flex; gap:10px; align-items:baseline; padding:7px 0;
+  border-top:1px solid var(--line); }
+li a { color:var(--fg); text-decoration:none; flex:1; }
+li a:hover { color:var(--link); }
+li .tag { font-size:12px; color:var(--muted); white-space:nowrap; }
 footer { color:var(--muted); font-size:13px; margin-top:28px; text-align:center; }
 </style>
 </head>
 <body>
-<h1>9/4(금) 뉴스</h1>
-<p class="meta">국내 3건, 해외 2건</p>
-<article>
-<h2>1. 공공기관 20% 통폐합, 정부 &quot;비용 절감 목표 아냐&quot;</h2>
-<p class="tag">국내 · 경제</p>
-<p>정부는 3일 전체 공공기관의 20%인 109개를 감축하는 &#x27;기능개혁 추진방안&#x27;을 발표했다. 한국석유공사와 가스공사를 묶어 에너지자원공사를 만들고 항만공사 4곳도 통합한다. 4일 정부는 &quot;비용 절감이 큰 목표는 아니며 신규채용도 줄이지 않는다&quot;고 밝혔다.</p>
-<p class="why"><b>왜 중요한가</b><br>국책은행 지방이전에 반대하는 금융노조가 4일 총파업에 들어갔고 부산·울산 지자체도 반발해, 국회 심의 과정에서 진통이 예상된다.</p>
-<p class="src"><a href="https://www.yna.co.kr/view/AKR20260904080700002" rel="noopener">연합뉴스</a> · <a href="https://www.chosun.com/economy/economy_general/2026/09/04/IOHZNINPMRGMJN6A2HBNMFR4IE/" rel="noopener">조선일보</a> · <a href="https://www.yna.co.kr/view/AKR20260904071200051" rel="noopener">연합뉴스</a></p>
-</article>
-<article>
-<h2>2. 청와대 &quot;호르무즈 파병 검토 중, 정해진 건 없다&quot;</h2>
-<p class="tag">국내 · 정치</p>
-<p>청와대는 4일 미국이 요구한 호르무즈 해협 파병 문제에 대해 &quot;절차에 따라 검토 단계이고 정해진 것은 없다&quot;고 밝혔다. 정부는 해상초계기와 군수지원함을 파견하는 방안을 준비 중이며, 이달 중 국회에 비준동의안을 제출할 것으로 알려졌다.</p>
-<p class="why"><b>왜 중요한가</b><br>트럼프 대통령이 3월부터 한국의 호르무즈 참여를 반복해서 요구해왔다. 파병이 확정되면 이란과의 마찰과 원유 도입 리스크가 커진다.</p>
-<p class="term"><b>용어</b> 호르무즈 해협은 중동 원유 수송의 관문으로, 한국이 들여오는 원유의 상당 부분이 이 해협을 지난다.</p>
-<p class="src"><a href="https://www.yna.co.kr/view/AKR20260904079100504" rel="noopener">연합뉴스</a> · <a href="https://www.chosun.com/economy/economy_general/2026/09/04/MZTGGMTDGEYDMY3GGVRDQZTEGM/" rel="noopener">조선일보</a> · <a href="https://www.mt.co.kr/world/2026/09/04/2026090409594354329" rel="noopener">머니투데이</a></p>
-</article>
-<article>
-<h2>3. SKT·KT·카카오 &#x27;모두의 AI&#x27; 시작, 올해 500만명 목표</h2>
-<p class="tag">국내 · 산업</p>
-<p>과학기술정보통신부는 4일 서울 프레스센터에서 &#x27;모두의 AI&#x27; 프로젝트 사업자로 뽑힌 SK텔레콤·KT·카카오 대표들과 간담회를 열었다. 3사는 올해 안에 500만명 사용을 목표로, 정보 탐색부터 신청·예약·결제까지 대신 처리하는 &#x27;실행형 AI&#x27;를 국민에게 무료로 제공한다.</p>
-<p class="why"><b>왜 중요한가</b><br>미국 오픈AI·구글 중심의 AI 시장에서 한국어와 생활맥락에 맞춘 국산 AI를 정부가 자금과 데이터로 뒷받침하는 첫 사업이다. 통신사와 플랫폼의 사용자 접점을 정책 인프라로 편입하는 실험이다.</p>
-<p class="term"><b>용어</b> 실행형 AI는 질문에 답만 하는 것이 아니라 예약·결제 같은 행동을 대신하는 AI다.</p>
-<p class="src"><a href="https://www.yna.co.kr/view/AKR20260904048351017" rel="noopener">연합뉴스</a> · <a href="https://www.mt.co.kr/tech/2026/09/04/2026090411484065229" rel="noopener">머니투데이</a> · <a href="https://www.mt.co.kr/tech/2026/09/04/2026090411000228459" rel="noopener">머니투데이</a></p>
-</article>
-<article>
-<h2>4. 폭스바겐 2030년까지 10만명 감원, 사상 최대 구조조정</h2>
-<p class="tag">해외 · 산업</p>
-<p>폭스바겐 이사회가 3일 5만명 추가 감원안을 승인해 2030년까지 총 10만명, 전체 인력의 15%를 줄이기로 했다. 제품군도 절반으로 축소한다. 중국 브랜드의 저가 공세와 전기차 전환 지연이 배경이다.</p>
-<p class="why"><b>왜 중요한가</b><br>유럽 자동차 산업 사상 최대 규모의 구조조정이다. 현대차·기아의 유럽 판매 반사효과와 한국 자동차 부품사의 수주 재편이 관건이다.</p>
-<p class="src"><a href="https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030" rel="noopener">The Guardian</a> · <a href="https://www.nytimes.com/2026/09/03/business/volkswagen-job-cuts.html" rel="noopener">뉴욕타임스</a> · <a href="https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&amp;at_campaign=rss" rel="noopener">BBC</a></p>
-</article>
-<article>
-<h2>5. 유가 4일 연속 급등, 디젤 사상 최고치 근접</h2>
-<p class="tag">해외 · 국제</p>
-<p>미국과 이란이 이번 주 다시 서로를 공격하면서 국제 유가가 4일 연속 올랐다. 디젤 가격은 사상 최고치에 근접했다. 트럼프 정부의 베센트 재무장관은 우크라이나의 러시아 정유시설 공격도 원인이라며 개입 축소 신호를 보냈다.</p>
-<p class="why"><b>왜 중요한가</b><br>한국은 원유 대부분을 중동에서 도입하므로 유가 상승이 물가·항공·정유업에 곧바로 영향을 준다. 미국이 러시아 압박을 완화하면 유럽 에너지 시장의 파장도 함께 커진다.</p>
-<p class="src"><a href="https://www.nytimes.com/2026/09/03/business/oil-diesel-prices-iran-war.html" rel="noopener">뉴욕타임스</a> · <a href="https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html" rel="noopener">뉴욕타임스</a> · <a href="https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&amp;at_campaign=rss" rel="noopener">BBC</a></p>
-</article>
-<footer>매일 뉴스 다이제스트 · 평일 오후 1시</footer>
+<h1>매일 뉴스 다이제스트</h1>
+<p class="meta">지금까지 1일 · 10건</p>
+<details open>
+<summary>9/5(토) <a class="day" href="https://joonwonchoi.github.io/daily-news/2026-09-05.html">그날 페이지</a><span class="count">10건</span></summary>
+<ul>
+<li><a href="https://joonwonchoi.github.io/daily-news/2026-09-05.html">김승원 법무장관 후보, 신약 청탁 의혹 확산</a><span class="tag">국내 · 정치</span></li>
+<li><a href="https://joonwonchoi.github.io/daily-news/2026-09-05.html">9월 초 수출 7094억달러, 지난해 연간치 넘어</a><span class="tag">국내 · 경제</span></li>
+<li><a href="https://joonwonchoi.github.io/daily-news/2026-09-05.html">美, 한국에 호르무즈 파병 요청 압박</a><span class="tag">국내 · 정치</span></li>
+<li><a href="https://joonwonchoi.github.io/daily-news/2026-09-05.html">한국거래소, 14일부터 오후 8시까지 거래</a><span class="tag">국내 · 경제</span></li>
+<li><a href="https://joonwonchoi.github.io/daily-news/2026-09-05.html">네팔 홍수 한국 구조대, 중국인 1명 구조</a><span class="tag">국내 · 사회</span></li>
+<li><a href="https://joonwonchoi.github.io/daily-news/2026-09-05.html">현대제철, 美 전기로 제철소 착공 연 270만t</a><span class="tag">국내 · 산업</span></li>
+<li><a href="https://joonwonchoi.github.io/daily-news/2026-09-05.html">美 8월 취업 16.2만명, 트럼프 관세로 금리 압박</a><span class="tag">해외 · 경제</span></li>
+<li><a href="https://joonwonchoi.github.io/daily-news/2026-09-05.html">美 디젤값 사상 최고, 이란 전쟁 여파</a><span class="tag">해외 · 경제</span></li>
+<li><a href="https://joonwonchoi.github.io/daily-news/2026-09-05.html">러 드론, 우크라 정보국 본부 타격</a><span class="tag">해외 · 국제</span></li>
+<li><a href="https://joonwonchoi.github.io/daily-news/2026-09-05.html">독일 극우 AfD, 작센안할트 첫 주정부 도전</a><span class="tag">해외 · 국제</span></li>
+</ul>
+</details>
+<footer>매일 오전 9시</footer>
 </body></html>
