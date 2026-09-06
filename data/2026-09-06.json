@@ -1,0 +1,201 @@
+{
+  "date": "2026-09-06",
+  "picks": [
+    {
+      "id": "e3cb7256",
+      "slot": "domestic",
+      "category": "정치",
+      "headline": "김승원 법무장관 후보 신약 청탁 의혹 확산",
+      "kakao_line": "김승원 법무장관 후보, 코로나 신약 임상 청탁 의혹 확산",
+      "what": "김승원 법무부 장관 후보자가 코로나19 치료제 임상시험 승인을 식약처에 청탁한 정황이 5일 공개됐다. 무소속 한동훈 의원은 브로커 양모씨와 '보고 싶어 눈물이 난다', '복지부에도 푸시해줄까' 같은 대화 녹취를 폭로했다. 김 후보자 측은 '공익적 민원'이라 해명했다.",
+      "why": "인사청문 통과 여부에 이재명 정부 초기 인사 정국의 향방이 걸려 있다. 여당은 방어에 나섰고 야당은 낙마 공세를 이어간다.",
+      "term": "",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260905051400004"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260905021251001"
+        }
+      ]
+    },
+    {
+      "id": "c414e666",
+      "slot": "domestic",
+      "category": "산업",
+      "headline": "현대제철·포스코 8조 美 루이지애나 제철소 첫삽",
+      "kakao_line": "현대제철·포스코, 美 루이지애나 8조 제철소 착공",
+      "what": "현대제철과 포스코가 4일(현지시간) 미국 루이지애나주 도널드슨빌에서 8조원 규모 합작 제철소(HPLS) 기공식을 열었다. 정의선 현대차그룹 회장은 '미국이 연 2,000만톤 철강을 수입하는데 그중 절반인 고부가 특수강·저탄소강을 우리가 커버할 수 있다'고 밝혔다.",
+      "why": "미국 철강 관세를 우회하면서 완성차·로봇·로켓까지 고부가 수요처에 직접 공급하는 구조다. 한국 철강·자동차 산업 미국 현지화의 축이다.",
+      "term": "",
+      "sources": [
+        {
+          "name": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/06/2026090513174612004"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/06/2026090513210250292"
+        }
+      ]
+    },
+    {
+      "id": "deda30ac",
+      "slot": "domestic",
+      "category": "경제",
+      "headline": "원/달러 환율 1,345원, 23개월 최저…달러 예금 역대 최대",
+      "kakao_line": "원/달러 1,345원, 23개월 최저. 달러예금 역대 최대",
+      "what": "원/달러 환율이 23개월 만에 최저인 1,345원까지 내렸다. 두 달 사이 약 250원 떨어졌다. 기업 달러 예금 잔액은 역대 최대로 늘었고, 개인 달러 예금도 사상 최대 규모다.",
+      "why": "환율이 더 내리면 사두려는 심리와 미국 금리 인하 기대가 겹쳤다. 수출기업 실적과 수입 물가에는 반대 방향으로 작용한다.",
+      "term": "",
+      "sources": [
+        {
+          "name": "조선일보",
+          "url": "https://www.chosun.com/economy/stock-finance/2026/09/06/JNTQ54AO7BHJ3NQIF2KQ2CNDBI/"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260905048200002"
+        }
+      ]
+    },
+    {
+      "id": "138a4faa",
+      "slot": "domestic",
+      "category": "산업",
+      "headline": "정부, 내년 AI 예산 9.4조로 대폭 증액",
+      "kakao_line": "정부 내년 AI 예산 9.4조. 모델·보안·서비스 잇는다",
+      "what": "정부가 내년도 인공지능 예산을 9조4천억원 규모로 편성했다. 독자 파운데이션 모델 개발부터 사이버 보안, AI 서비스까지 전 단계를 잇는 구조다.",
+      "why": "오픈AI·구글에 밀린 국산 AI 산업의 승부수로 평가된다. 예산 집행 방식과 성과 관리가 실효성을 가른다.",
+      "term": "파운데이션 모델은 대량 데이터로 학습해 여러 용도로 응용할 수 있는 대형 AI 기반 모델이다.",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260904158500017"
+        }
+      ]
+    },
+    {
+      "id": "1c1f0069",
+      "slot": "domestic",
+      "category": "경제",
+      "headline": "9월 시중은행 가계대출 반년 만에 감소 전환",
+      "kakao_line": "9월 시중은행 가계대출, 반년 만에 감소 전환",
+      "what": "주요 시중은행 가계대출 잔액이 9월 들어 반년 만에 처음 감소했다. 정부가 총량 규제를 완화했지만 은행들이 자율적으로 관리에 나섰기 때문이다. 다만 정책대출을 빼면 증가세는 이어지고 있다.",
+      "why": "부동산·주식으로 흘러들던 자금이 잠시 멈춘 신호다. 10월 이후 다시 늘어날지가 향후 부동산 시장의 관건이다.",
+      "term": "",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260905028800002"
+        }
+      ]
+    },
+    {
+      "id": "24b045c1",
+      "slot": "domestic",
+      "category": "사회",
+      "headline": "KTX 하청 승무원, 열차 수유실 겸용 공간서 근무",
+      "kakao_line": "KTX 하청 승무원, 열차 수유실서 대기. 문도 못 잠가",
+      "what": "KTX 하청 승무원들이 별도 대기 공간 없이 열차 수유실을 승무원실로 겸용해 사용하는 것으로 확인됐다. 수유하러 오는 승객 때문에 문을 잠그지 못한 채 옷을 갈아입고 대기한다는 증언이 나왔다.",
+      "why": "코레일 정규직과 하청 승무원의 근무 환경 격차가 다시 드러났다. 승객 안내 최전선 인력의 처우 개선 요구가 커진다.",
+      "term": "",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260905047800004"
+        }
+      ]
+    },
+    {
+      "id": "ccb43f7f",
+      "slot": "world",
+      "category": "국제",
+      "headline": "미-이란 호르무즈 해협서 유조선·군함 상호 타격",
+      "kakao_line": "미-이란, 호르무즈 유조선·군함 상호 타격. 유가 급등",
+      "what": "미군이 5일 이란 하르그섬 연안 유조선 3척을 타격했다. 이란이 미 항공모함과 구축함에 미사일을 쏜 것에 대한 보복이다. 이란은 곧바로 호르무즈 해협의 유조선 3척과 미국 관련 선박을 되받아쳤다.",
+      "why": "세계 원유 수송의 약 20%가 지나는 호르무즈 해협이 흔들리면서 국제 유가와 국내 휘발유·경유 가격이 오른다. 미국은 한국에 호르무즈 '자산 배치'를 요구했다.",
+      "term": "호르무즈 해협은 페르시아만과 오만해를 잇는 좁은 바닷길로, 세계 원유 수송의 약 20%가 지난다.",
+      "sources": [
+        {
+          "name": "뉴욕타임스",
+          "url": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/06/2026090607073220155"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "37d665c2",
+      "slot": "world",
+      "category": "국제",
+      "headline": "푸틴, 트럼프 특사 만나 우크라 종전 협상",
+      "kakao_line": "푸틴, 트럼프 특사 쿠슈너·윗코프와 우크라 종전 회담",
+      "what": "푸틴 러시아 대통령이 5일 크렘린에서 트럼프 특사 스티브 윗코프와 재러드 쿠슈너를 만났다. 협상 기간 사흘 동안 러시아와 우크라이나가 서로 수도를 공습하지 않기로 했다.",
+      "why": "지난 2월 협상 결렬 후 첫 대면 재개다. 실제 종전 로드맵으로 이어질지 이번에도 결렬로 끝날지가 갈림길이다.",
+      "term": "",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks"
+        },
+        {
+          "name": "뉴욕타임스",
+          "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "50c09f3b",
+      "slot": "world",
+      "category": "국제",
+      "headline": "Anthropic, AI 학습 저작권 소송 15억달러에 합의",
+      "kakao_line": "Anthropic, AI 학습 저작권 소송 15억달러 합의",
+      "what": "Anthropic이 자사 챗봇 학습에 무단 사용한 도서에 대해 15억달러 규모 합의금을 지급한다. 도서 한 권당 3,000달러다.",
+      "why": "AI 학습 데이터 저작권 판례로, 국내 네이버·카카오·삼성 등 AI 개발사와 출판업계에도 참고 기준이 된다.",
+      "term": "",
+      "sources": [
+        {
+          "name": "뉴욕타임스",
+          "url": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html"
+        }
+      ]
+    },
+    {
+      "id": "d8bf1abe",
+      "slot": "world",
+      "category": "국제",
+      "headline": "네팔 홍수 9일 만에 매몰자 잇달아 구조",
+      "kakao_line": "네팔 홍수 9일 뒤 매몰자 구조. 한국 구호대 수색 지속",
+      "what": "지난달 말 네팔 대홍수 발생 9일 만에 수력발전소 터널에서 노동자 2명이 살아 구조됐다. 진흙에 파묻힌 집에서 여성도 구조됐다. 대한민국 해외긴급구호대는 위어댐 인근 터널을 수색 중이다.",
+      "why": "사망·실종자 규모가 확정되지 않은 가운데 네팔 전력 생산의 10% 이상이 마비돼 복구가 길어질 전망이다.",
+      "term": "",
+      "sources": [
+        {
+          "name": "뉴욕타임스",
+          "url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue.html"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260905041200504"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ]
+}
